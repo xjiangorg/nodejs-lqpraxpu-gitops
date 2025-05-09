@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/quay_xjiang/nodejs-lqpraxpu:jenkins-72faffbd08938749fa3357aa77b00833bdd767f5
+        - image: quay.io/quay_xjiang/nodejs-lqpraxpu:jenkins-e5210c28a7d4c873d12b21f71825625a8b401d89
           name: container-image
